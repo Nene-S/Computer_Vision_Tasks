@@ -1,6 +1,8 @@
-# The OpenCV Task
+# Various Computer Vision Tasks
 
-To be able to run the code in this repository, downlod the following packages:
+This repository contains several computer vision tasks, including line detection on a video input.
+
+To run the code in this repository, install the following packages:
 
 ```python
 pip install opencv-python numpy matplotlib
@@ -78,3 +80,7 @@ To fix this, the transformed positions of the image corners were calculated to d
   <img src="images/bad_rotation.png" alt="Bad Rotation Transformation" width="250"/>
   <img src="Output/rotation_transformation.png" alt="Output Rotation Transformation" width="250"/>
 </p>
+
+
+### Line Detection on Video Input
+[Watch video](videos/videos.mp4)
